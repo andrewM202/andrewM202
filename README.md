@@ -2,7 +2,7 @@
 
 I am a 19 year old software engineer looking to make an impact and engage in an interesting work environment. I have interests in all facets of computer science - I have dabbled in **blockchain technology** (with the Solidity language), to **graphics engines** (C++ and OpenGL), to **machine learning** (Python, Pytorch), to having fun making small **networking** projects (Python Sockets). I have a solid understanding of the full web stack, from back end to front end, and made, deployed, or worked on a variety of websites in a variety of languages - Laravel, Flask, Asp.net. 
 
-In the near future, I am hoping to release a couple big projects that I am hoping will catch some eyes - watch out!
+In the near future, I am hoping to release a couple big projects that I am hoping will catch some eyes - watch out! Feel free to take a peruse of my [portfolio website](https://portfolio-website421.herokuapp.com/) in the mean time. 
 
 Languages:
 - HTML
