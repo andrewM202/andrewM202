@@ -9,6 +9,7 @@ Languages:
 - CSS 
   - Tailwind CSS
   - Bootstrap CSS
+  - SASS
 - JavaScript
   - jQuery
   - Svelte.js
@@ -19,13 +20,15 @@ Languages:
   - And many more python libraries
 - PHP
   - Laravel
+- Java
+  - Selenium (Automated Testing)
 - SQL (MSSQL, PostgreSQL, SQLite, MySQL)
 - MongoDB
 - Solidity
 - C++
   - OpenGL
   
-Technologies and Deployment Tools:
+Misc Technologies and Deployment Tools:
 - NPM
 - Git
 - Jira, Zendesk
@@ -33,6 +36,8 @@ Technologies and Deployment Tools:
 - Webpack
 - Nginx Web Server
 - Heroku
+- Websockets
+- Agile Sprints
 
 <!--
 **andrewM202/andrewM202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
